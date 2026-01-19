@@ -11,9 +11,6 @@ Create a program which prints:
 ```
 Hello World!
 ```
-
-**WORKSPACE**
-
 ---
 
 ## Question 2 – User Input (Integer)
@@ -22,8 +19,6 @@ Create a program which:
 
 1. Asks the user to input an integer.
 2. Prints the integer back to the screen.
-
-**WORKSPACE**
 
 ---
 
@@ -41,8 +36,6 @@ Formula for the area of a circle:
 ```
 Area = p * r²
 ```
-
-**WORKSPACE**
 
 ---
 
@@ -65,8 +58,6 @@ countdown
 1
 ```
 
-**WORKSPACE**
-
 ---
 
 ## Question 5 – Printing Your Name
@@ -75,8 +66,6 @@ Create a program which prints your name using:
 
 * **Loops**
 * **Strings**
-
-**WORKSPACE**
 
 ---
 
@@ -91,8 +80,6 @@ Create a program which prints the integer:
 You must use **only pointers and addresses** to accomplish this.
 
 (No direct printing of the number is allowed.)
-
-**WORKSPACE**
 
 ---
 
@@ -110,8 +97,6 @@ Function prototype:
 ```c
 void divide_by_10(float *value);
 ```
-
-**WORKSPACE**
 
 ---
 
@@ -138,5 +123,3 @@ Use the following employees:
 | Megan | 29836 | Marketing  | 85900  |
 | Steph | 98763 | IT         | 92500  |
 | Mo    | 93087 | IT         | 93840  |
-
-**WORKSPACE**
