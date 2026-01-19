@@ -30,6 +30,8 @@ You entered:
 42
 */
 
+// Don't forget to add necessary headers
+
 int main() {
     // Your code here
     return 0;

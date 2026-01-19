@@ -13,6 +13,12 @@ Function prototype:
 void divide_by_10(float *value);
 */
 
+// Don't forget to include necessary headers
+
+// Create the divide_by_10 function
+// Remember that if you create the function below where you use it,
+// you will need to create a function prototype before that
+
 int main() {
     // Your code here
     return 0;

@@ -13,6 +13,8 @@ Formula for the area of a circle:
 Area = p * r²
 */
 
+// Don't forget to include necessary headers
+
 int main() {
     // Your code here
     return 0;

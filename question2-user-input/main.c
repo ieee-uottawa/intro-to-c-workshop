@@ -6,6 +6,8 @@ Create a program which:
 2.Prints the integer back to the screen.
 */
 
+// Don't forget to include necessary headers
+
 int main() {
     // Your code here
     return 0;

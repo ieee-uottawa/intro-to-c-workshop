@@ -25,6 +25,10 @@ Use the following employees:
 
 */
 
+// Don't forget to include necessary headers
+
+// Create structure
+
 int main() {
     // Your code here
     return 0;
