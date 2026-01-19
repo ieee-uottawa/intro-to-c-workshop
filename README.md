@@ -1,6 +1,6 @@
 # Intro to C Workshop – Practice Questions
 
-Complete each of the following questions in C. Use each **WORKSPACE** section to write your code.
+Complete each of the following questions in C.
 
 ---
 
@@ -8,9 +8,10 @@ Complete each of the following questions in C. Use each **WORKSPACE** section to
 
 Create a program which prints:
 
-```
+```txt
 Hello World!
 ```
+
 ---
 
 ## Question 2 – User Input (Integer)
@@ -33,7 +34,7 @@ Create a program which:
 
 Formula for the area of a circle:
 
-```
+```txt
 Area = p * r²
 ```
 
@@ -49,7 +50,7 @@ Create a program which:
 
 Example output:
 
-```
+```txt
 countdown
 5
 4
@@ -73,7 +74,7 @@ Create a program which prints your name using:
 
 Create a program which prints the integer:
 
-```
+```txt
 10
 ```
 
@@ -123,3 +124,37 @@ Use the following employees:
 | Megan | 29836 | Marketing  | 85900  |
 | Steph | 98763 | IT         | 92500  |
 | Mo    | 93087 | IT         | 93840  |
+
+---
+
+## Question 9 – Dynamic Memory Allocation (malloc and free)
+
+Create a program which:
+
+1. Asks the user how many integers they want to store.
+2. Dynamically allocates enough memory to store that many integers using `malloc`.
+3. Uses a loop to let the user input each integer.
+4. Prints all the integers back to the screen.
+5. Frees the allocated memory using `free`.
+
+Rules:
+
+* You must use `malloc` to allocate the array.
+* You must check that `malloc` was successful.
+* You must use `free` before the program exits.
+
+Example run:
+
+```txt
+How many numbers do you want to store? 4
+Enter number 1: 10
+Enter number 2: 25
+Enter number 3: 7
+Enter number 4: 42
+
+You entered:
+10
+25
+7
+42
+```
