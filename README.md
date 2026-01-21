@@ -1,5 +1,7 @@
 # Intro to C Workshop – Practice Questions
 
+Link to presentation: [Intro to C Workshop – Presentation](https://docs.google.com/presentation/d/1vNBTdgKRKvzyWMiPT5RDtsl_q4GC_yjCOyyML4J4AgE/edit?usp=sharing)
+
 Complete each of the following questions in C.
 
 ---
